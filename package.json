@@ -1,0 +1,22 @@
+{
+  "name": "simple-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajsassine3/simple-discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajsassine3/simple-discord-bot/issues"
+  },
+  "homepage": "https://github.com/ajsassine3/simple-discord-bot#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
